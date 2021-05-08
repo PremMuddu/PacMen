@@ -18,6 +18,9 @@ Download the files on an editor and open index.html on the browser window.
 Click on "Add PacMen button," Press "Start Game" button.
 
 Roadmap:
+. Build a Maze 
+. Add Ghost
+. Add dots for the PacMen to eat and avoid the Ghost
 
 
 License:
