@@ -1,6 +1,5 @@
 # PacMen
 <img src= "PacMan1.png">
-<img src= "PacMan3.png">
 
 Overview:
 
