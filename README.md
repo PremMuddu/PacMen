@@ -1,4 +1,6 @@
 # PacMen
+<img src= "PacMan1.png">
+
 Overview:
 
 Pac-Man is a popular video gaming series that has travelled across continents for nearly 4 decades! This project is an impact of numerous code concepts written to simulate images that move across the screen and reverse.
