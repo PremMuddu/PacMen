@@ -23,7 +23,8 @@ const pacMen = [];
   let game = document.getElementById('game');
   let newimg = document.createElement('img');
   newimg.style.position = 'absolute';
-  newimg.src = './PacMan1.png';
+
+  newimg.src = pacArray[Math.floor(Math.random()*4)];
   newimg.width = 100;
 
 
