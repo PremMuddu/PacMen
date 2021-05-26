@@ -6,7 +6,7 @@ Overview:
 Pac-Man is a popular video gaming series that has travelled across continents for nearly 4 decades! This is basic webpage programming to control the elements of the webpage.
 This project is an impact of numerous code concepts written to add one Pacmen Image at each click of a button and move across the screen on a click of a button. The speed increases as the "move button on each click. The Pacmen reverses the direction once it hits the edge through edge detection.
 
-How To run: Load the HTML file for this repo or Go to https://premmuddu.github.io/PacMen/ to see my other projects as well on the browser window. 
+How To run: Load the HTML file for this repo or Go to https://premmuddu.github.io/PacMen/ on the browser window. 
 
 Click on "Add PacMen button," Press "Start Game" button.
 
